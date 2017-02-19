@@ -15,7 +15,7 @@ body {
     position: absolute;
     left: 20px;
     right: 0;
-    min-height: 750px;
+    min-height: 780px;
 }
 
 .book-mark-1 {
@@ -107,12 +107,12 @@ body {
     margin-bottom: 14px;
 }
 
-.wrap-content .content-footer {
+.wrap-content footer {
     text-align: center;
     margin-top: 27px;
 }
 
-.wrap-content .content-footer p {
+.wrap-content footer p {
     font-family: MyriadPro-Regular;
     font-weight: 400;
     font-size: 9px;
@@ -127,9 +127,10 @@ body {
     float: left;
     width: 195px;
     background: #20ce6d;
-    height: 95px;
+    height: 110px;
     margin-bottom: 14px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .ninja-block .block-content {
     width: 155px;
 }
@@ -138,35 +139,42 @@ body {
     float: right;
     width: 195px;
     background: #3a8fba;
-    height: 95px;
+    height: 110px;
     margin-bottom: 14px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .ball-block .block-content {
     width: 128px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .pink-block {
     float: left;
     width: 195px;
     background: #61ca9b;
-    height: 95px;
+    height: 110px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .pink-block .block-content {
-  width: 128px;
+    width: 128px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .sea-block {
-     float: right;
-     width: 195px;
-     background: #f36a71;
-     height: 95px;
- }
+    float: right;
+    width: 195px;
+    background: #f36a71;
+    height: 110px;
+}
+
 .wrap-content .blocks-info .blocks-wrap .sea-block .block-content {
     width: 172px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-img {
     display: block;
     margin: 4px auto 0;
     text-align: center;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-content {
     display: block;
     margin: 8px auto 0;
@@ -174,34 +182,42 @@ body {
     padding: 0 5px 5px;
     box-sizing: border-box;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-content .class-name {
     color: #88b13a;
     font-size: 8px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-content .class-name-start {
     color: #c3c2c1;
     font-size: 8px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-content .class-name-end {
     color: #c3c2c1;
     font-size: 8px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-content .class-properties {
     line-height: 8px;
     margin-left: 2px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-content .class-property {
     color: #b74a84;
     font-size: 8px;
 }
+
 .wrap-content .blocks-info .blocks-wrap .block-content .class-property-value {
     color: #000000;
     font-size: 8px;
 }
+
 .wrap-content .content-part-3 .img-note-book {
     float: right;
     margin-left: 5px;
 }
+
 .wrap-content .blocks-info h4 {
     font-family: MyriadPro-Regular;
     font-weight: 400;
@@ -209,6 +225,7 @@ body {
     color: #333333;
     margin-top: 20px;
 }
+
 .social-icon {
     background: #fbaf5d;
     border: 1px solid black;
@@ -218,11 +235,13 @@ body {
     bottom: 80px;
     padding-bottom: 15px;
 }
+
 .social-icon h4 {
     font-family: MyriadPro-Regular;
     text-align: center;
     margin: 7px auto 10px;
 }
+
 .social-icon .facebook-icon, .social-icon .twitter-icon, .insta-icon {
     width: 18px;
     height: 18px;
@@ -230,16 +249,19 @@ body {
     border-radius: 100%;
     float: left;
 }
+
 .social-icon .facebook-icon {
     background-image: url("../images/icon-social.png");
     background-repeat: no-repeat;
     background-position: -2px -2px;
 }
+
 .social-icon .twitter-icon {
     background-image: url("../images/icon-social.png");
     background-repeat: no-repeat;
     background-position: -30px -2px;
 }
+
 .social-icon .insta-icon {
     background-image: url("../images/icon-social.png");
     background-repeat: no-repeat;
